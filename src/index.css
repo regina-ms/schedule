@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@source inline('grid-cols-4');
+@source inline('grid-cols-8');
+@source inline('grid-cols-2');
+@source inline('row-span-2');
+@source inline('row-span-1');
+@source inline('row-span-3');
